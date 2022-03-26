@@ -1,2 +1,2 @@
 # database-connection
-This is how to connect to a database using MySQL in OOP
+This is how to connect to a database using PHP and MySQL in OOP
